@@ -13,11 +13,11 @@ int main()
 		"In The Ring, How long do you have to live after watching the cursed tape? \n A. 3 days \n B. 2 Days \n C. 7 days \n D. 4 Days \n",
 		"Which film franchise isn't directed by Wes Craven? \n A. A Nightmare on Elm Street \n B. Scream \n C. The Hills Have Eyes \n D. Hellraiser \n",
 		"Which is the GREATEST MOVIE OF 2021 DIRECTED BY M NIGHT SHYAMALAN. \n A. OLD \n B. Signals \n C. The Sixth Sense \n D. Malignant \n ",
-		"Which year did The Texas Chainsaw Massacre come out :) \n A. 2003 \n B. 2022 \n 2013 \n D. 1974 \n"
+		"Which year did The Texas Chainsaw Massacre come out :) \n A. 2003 \n B. 2022 \n C. 2013 \n D. 1974 \n"
 	};
 
 	srand(time(NULL));
-	int questionPicker = rand() % 5;
+	int questionPicker = rand() % 6;
 	char userInput{};
 	std::cout << questions[questionPicker];
 	std::cin >> userInput;
