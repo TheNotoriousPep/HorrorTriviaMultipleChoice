@@ -8,7 +8,7 @@ int main()
 	bool correct = true;
 	//Horror Movie Trivia
 	const char* questions[6] = {
-		"What is the name of the camp where counselors are terrorized by a slasher in Friday the 3th? \n A. Camp Quartz Lake \n B. Camp Diamond Lake \n C. Camp Crystal Lake \n D. Camp Green Lake \n",
+		"What is the name of the camp where counselors are terrorized by a slasher in Friday the 13th? \n A. Camp Quartz Lake \n B. Camp Diamond Lake \n C. Camp Crystal Lake \n D. Camp Green Lake \n",
 		"Michael Myers' mask in Halloween is which actors face? \n A. Clint Eastwood \n B. Marlon Brando \n C. Paul Newman \n D. William Shatner \n",
 		"In The Ring, How long do you have to live after watching the cursed tape? \n A. 3 days \n B. 2 Days \n C. 7 days \n D. 4 Days \n",
 		"Which film franchise isn't directed by Wes Craven? \n A. A Nightmare on Elm Street \n B. Scream \n C. The Hills Have Eyes \n D. Hellraiser \n",
